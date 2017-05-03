@@ -17,7 +17,7 @@ Sasara (ささら) notifies you of Barter.vg trade offers.
 
 [GitHub](https://github.com/antigravities/sasara)
 
-### [<img src='https://github.com/BookHorseSoftware/Coolbooru/raw/master/coolbooru.png' height="75px"></img>](https://github.com/bookhorsesoftware/coolbooru)
+### [<img src='https://github.com/BookHorseSoftware/Coolbooru/raw/master/coolbooru.png' height="75px">](https://github.com/bookhorsesoftware/coolbooru)
 A 20% cooler Derpibooru API client in C#/.NET.
 
 [GitHub](https://github.com/bookhorsesoftware/coolbooru)
