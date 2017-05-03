@@ -2,7 +2,7 @@
 
 ## Projects
 
-### <img src="http://cdn.akamai.steamstatic.com/steam/apps/439720/header.jpg" height="75px"></img>
+### <img src="http://cdn.akamai.steamstatic.com/steam/apps/439720/header.jpg" height="75px">
 Unending Galaxy is a unique space simulation game in which you can fill any role from pirate or trader to the leader of a large galactic empire. Worked on Steamworks features at Anarkis Gaming.
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Steam_icon_logo.svg/1024px-Steam_icon_logo.svg.png" height="35px">](https://store.steampowered.com/app/439720) [<img src="https://eet.li/8964199.png" height="35px">](https://anarkisgaming.itch.io/unending-galaxy)
